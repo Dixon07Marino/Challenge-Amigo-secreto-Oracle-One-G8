@@ -1,6 +1,8 @@
 <h2>Juego amigo secreto - ONE - G8</h2>
 
-<p>Este es un juego del amigo secreto que hice en el Challenge del programa One next Education de Oracle junto a Alura Latam. G8</p>
+<p>Este es un juego del amigo secreto que hice en el Challenge del programa One next Education de Oracle junto a Alura Latam. G8. Aquí dejo la insignia que obtuve al completar el challenge:</p>
+
+<img src="insignia.webp">
 
 <p>En este juego pude aplicar todos los conocimientos de lógica de programación que aprendí en los dos cursos que ofrecieron.</p>
 
