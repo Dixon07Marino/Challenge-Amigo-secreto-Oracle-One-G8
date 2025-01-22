@@ -4,7 +4,7 @@
 
 <p>En este juego pude aplicar todos los conocimientos de lógica de programación que aprendí en los dos cursos que ofrecieron.</p>
 
-<p>El programa lo hice totalmente desde cero, sin usar ningún tipo de IA ni ayuda en internet. Esto para desafiarme a mi mismo y realmente resolver un problema apartir del análisis.</p>
+<p>El programa lo hice totalmente desde cero, sin usar ningún tipo de IA ni ayuda en internet. Esto para desafiarme a mi mismo y realmente resolver un problema a partir del análisis.</p>
 
 <p>El juego funciona muy simple, primero se dijitan los nombres de los amigos que van a participar, esto dentro del input.</p>
 
