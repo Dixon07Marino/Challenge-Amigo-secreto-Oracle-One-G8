@@ -6,10 +6,10 @@
 
 <p>El programa lo hice totalmente desde cero, sin usar ningún tipo de IA ni ayuda en internet. Esto para desafiarme a mi mismo y realmente resolver un problema apartir del análisis.</p>
 
-<img src="">
+<img src="assets/Captura.PNG">
 
 <p>El juego cumple con todos los requerimientos, y además me aseguré de usar buenas practicas. Sin duda el programa puede mejorar aún más. Estoy contento por haberlo hecho, tardé horas en resolverlo, pero sentí gran satisfacción al llegar a una solución sin ningún tipo de ayuda.</p>
 
 <h3>Gracias por leer - ¡A seguir programando!</h3>
 
-<span style="color: blue;">Dixon Marino</span>
+Dixon Marino
