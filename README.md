@@ -18,7 +18,7 @@
 
 <img src="assets/Captura3.PNG">
 
-<p>Además, agregué validaciones sumamente importantes, como asegurarme de que el usuario coloque algo en el input, de lo contrario se le muestra este mensaje: </p>
+<p>Además, agregué validaciones sumamente importantes, como asegurarme de que el usuario coloque algo en el input, sino coloca nada se le muestra este mensaje: </p>
 
 <img src="assets/Captura4.PNG">
 
