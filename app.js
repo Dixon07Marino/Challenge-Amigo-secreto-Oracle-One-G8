@@ -1,13 +1,17 @@
 let amigosLista = document.getElementById("listaAmigos")
 let amigoSecreto = document.getElementById("resultado")
 let titulo = document.querySelector("h2")
-let nombreAmigo = document.getElementById("amigo").focus()
+let nombreAmigo = document.getElementById("amigo")
 let amigos = []
-
-
 let index = 0
 let amigo;
 
+enfocarInput()
+
+
+function enfocarInput() {
+    nombreAmigo = document.getElementById("amigo").focus()
+}
 
 function escribirTitulo(texto) {
     titulo.innerHTML = texto
@@ -27,7 +31,7 @@ function agregarAmigo(){
             amigosLista.appendChild(elementoLi)
             elementoLi.innerHTML = amigo
             nombreAmigo = document.getElementById("amigo").value = ""
-            nombreAmigo = document.getElementById("amigo").focus()
+            enfocarInput()
             index++
         }
     }
@@ -36,10 +40,10 @@ function agregarAmigo(){
 function sortearAmigo() {
     if (amigos.length == 0) {
         escribirTitulo("¡No has agregado amigos aún!")
-        nombreAmigo = document.getElementById("amigo").focus()
+        enfocarInput()
     }
     else {
         let numeroRandom = Math.floor(Math.random() * amigos.length)
-        amigoSecreto.innerHTML = amigos[numeroRandom]
+        amigoSecreto.innerHTML = `Tu amigo secreto es: ${amigos[numeroRandom]}`
     }
 }
